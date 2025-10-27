@@ -14,7 +14,6 @@ int main()
     {
         printf("==== WELCOME TO BASIC CALCULATOR ====\n");
         printf("   == DEVELOPED BY ABHINAY ==\n");
-        printf("  **** ALL COPYRIGHTS RESERVED ****\n");
 
         printf("enter the num1 : \n");
         scanf("%d", &num1);
